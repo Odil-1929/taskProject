@@ -1,0 +1,1434 @@
+header {
+    background-image: url("../component/image/main screen background 2.png");
+    background-repeat: no-repeat;
+
+}
+
+header .navbar-nav .nav-item .nav-link {
+    color: black;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 22px;
+}
+
+header .navbar {
+    background-color: transparent !important;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+
+header .navbar .navbar-brand {
+    font-size: 20px;
+    color: white !important;
+
+}
+
+header .navbar .navbar-nav {
+    background-color: white;
+    border-radius: 10px;
+
+}
+
+
+header h1 {
+    color: white;
+    margin-top: 186px;
+    font-size: 75px;
+    margin-bottom: 30px;
+    font-weight: 700;
+}
+
+header h2{
+    font-size: 50px;
+    margin-bottom: 30px;
+    font-weight: 500;
+}
+
+header p{
+    font-size: 30px;
+    font-weight: 200;
+    margin-bottom: 30px;
+}
+
+header .btn{
+    background-color: #1B3858;
+    padding: 10px 100px;
+    border: 0;
+    margin-bottom: 300px;
+}
+
+
+
+
+/****************** SERVICES *****************/
+
+section#services .chiziq{
+    height: 5px;
+    width: 400px;
+    background-color: rgb(34, 55, 85);
+}
+
+section#services{
+    margin-top: 100px;
+}
+
+section#services .container{
+    margin-bottom: 100px;
+}
+
+section#services h2{
+    font-weight: 600;
+    margin-bottom: 50px;
+}
+
+section#services .col-4:nth-child(1) .card{
+    background-image: url("../component/image/web development 1.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    box-shadow: 2px 2px 10px lightgray;
+    padding: 20px 40px;
+
+}
+section#services .col-4:nth-child(2) .card{
+    background-image: url("../component/image/testing.png"),linear-gradient(90deg, rgb(34, 55, 85), rgb(104, 117, 134));
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    box-shadow: 2px 2px 10px lightgray;
+    padding: 20px 40px;
+
+}
+section#services .col-4:nth-child(3) .card{
+    background-image: url("../component/image/ui ux design 1.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    box-shadow: 2px 2px 10px lightgray;
+    padding: 20px 40px;
+}
+section#services .col-4:nth-child(4) .card{
+    background-image: url("../component/image/mobile development 1.png"),linear-gradient(90deg, rgb(34, 55, 85), rgb(104, 117, 134));
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    box-shadow: 2px 2px 10px lightgray;
+    padding: 20px 40px;
+}
+section#services .col-4:nth-child(5) .card{
+    background-image: url("../component/image/deployment 1.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    box-shadow: 2px 2px 10px lightgray;
+    padding: 20px 40px;
+}
+section#services .col-4:nth-child(6) .card{
+    background-image: url("../component/image/automation 1.png"),linear-gradient(90deg, rgb(34, 55, 85), rgb(104, 117, 134));
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    box-shadow: 2px 2px 10px lightgray;
+    padding: 20px 40px;
+}
+
+section#services .col-4 .col-3{
+    /*background-image: url("../images/webicon.svg");*/
+    /*background-size: 90% 80%;*/
+    /*background-repeat: no-repeat;*/
+    /*background-color: white;*/
+    /*padding-top: 100px;*/
+
+}
+
+section#services .col-4 .col-9{
+    color: rgb(34, 55, 85);
+}
+section#services .col-4 .col-9 p{
+    font-size: 13px;
+}
+
+
+/****************** ADVANTAGES *****************/
+
+section#advantages .container{
+    margin-top: 200px;
+    margin-bottom: 180px;
+}
+section#advantages .col-4 h3{
+    font-size: 35px;
+    font-weight: 600;
+    margin-bottom: 40px;
+    width: 150%;
+}
+section#advantages p{
+    font-size: 16px;
+    font-weight: 300;
+    width: 96%;
+}
+
+section#advantages .tech-yard {
+    border-top: 5px solid rgb(34, 55, 85);
+    padding-top: 35px;
+    padding-right: 20px;
+}
+
+section#advantages .col-7 {
+    margin-left: 95px;
+    border-radius: 10px;
+    background-image: linear-gradient(90deg, rgb(34, 55, 85), rgb(104, 117, 134));
+    padding-top: 40px;
+}
+
+section#advantages .col-7 h3{
+    color: white;
+    margin-bottom: 30px;
+    margin-left: 20px;
+}
+
+section#advantages .col-7 .col-6:nth-child(1) .col-4{
+    /*background-image: url("../images/high.svg");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 90% 90%;*/
+    border: none;
+}
+section#advantages .col-7 .col-6:nth-child(2) .col-4{
+    border: none;
+}
+section#advantages .col-7 .col-6:nth-child(3) .col-4{
+    border: none;
+}
+section#advantages .col-7 .col-6:nth-child(4) .col-4{
+    border: none;
+}
+section#advantages .col-7 .col-6:nth-child(5) .col-4{
+    border: none;
+}
+section#advantages .col-7 .col-6:nth-child(6) .col-4{
+    border: none;
+}
+section#advantages .col-7 .col-6 .col-8 h6{
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+section#advantages .col-7 .col-6 .col-8 p{
+    font-size: 13px;
+    font-weight: 400;
+    width: 110%;
+}
+
+
+section#ourachive{
+    margin-top: 210px;
+    padding-top: 20px;
+    background-image: url("../component/image/Ourachiveback.png");
+}
+
+section#ourachive .chiziq2{
+   margin-top: 50px;
+    width: 260px;
+    height: 5px;
+    border-top: 5px solid white;
+  background-color: white;
+}
+
+section#ourachive .col-3{
+    margin-top: 11px;
+    border-radius: 50%;
+    box-sizing: border-box;
+    border: 2px solid white;
+}
+section#ourachive .col-3 img{
+    width: 45px;
+    margin-left: 9px;
+    margin-top: 19px;
+}
+
+section#ourachive .soz300 h1{
+    font-style: normal;
+    font-weight: 300;
+    font-size: 80px;
+    margin-left: 24px;
+}
+
+
+section#ourachive .col-8 img{
+    margin-top: -179px
+}
+
+section#ourachive .chiziq3{
+    margin-top: 50px;
+    width: 785px;
+    height: 5px;
+    border-top: 5px solid white;
+    background-color: white;
+}
+
+section#ourachive .col-2 h4{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+
+}
+
+section#ourachive .col-10{
+    padding-left: 137px;
+}
+
+section#stories .container{
+    margin-top: 150px;
+}
+
+section#stories .chiziq-4{
+    width: 385px;
+    height: 5px;
+    border-top: 5px solid rgb(34, 55, 85);
+    margin-left: -48px;
+    margin-bottom: 46px;
+}
+
+section#stories h1{
+    font-weight: 600;
+    font-size: 40px;
+    margin-bottom: 70px;
+    margin-left: -38px
+}
+
+section#stories .col-8{
+    margin-left: -48px;
+
+}
+
+section#stories .col-4 h2{
+    font-weight: 600;
+    font-size: 40px;
+}
+
+section#stories .col-4 p{
+    font-size: 18px;
+    margin-top: 60px;
+    margin-bottom: 140px;
+}
+
+section#partners .chiziq5{
+    width: 385px;
+    height: 5px;
+    border-top: 5px solid rgb(34, 55, 85);
+    margin-left: -16px;
+}
+
+section#partners .container{
+    margin-top: 140px;
+}
+
+section#partners .col-3{
+    border: 2px solid #E6E6E6;
+    border-radius: 0 0 5px 5px;
+    box-sizing: border-box;
+}
+
+section#partners .col-3 img{
+    width: 69%;
+    margin-top: 39px;
+    margin-left: 39px;
+}
+
+section#partners .col-3 p{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    text-align: center;
+    width: 100%;
+    color: #ABABAB;
+}
+
+section#fedback .chiziq-6{
+    width: 271px;
+    height: 5px;
+    border-top: 5px solid rgb(34, 55, 85);
+    margin-left: -16px;
+}
+
+section#fedback .container{
+    margin-top: 100px;
+}
+
+section#fedback .col-3 h1{
+    font-size: 30px;
+    font-weight: 600;
+}
+
+section#fedback .col-9{
+    background-image: url("../component/image/fedbackback.png");
+    margin-top: 117px;
+}
+
+section#fedback .col-4 img{
+    margin-top: -117px;
+    width: 95%;
+}
+
+section#fedback .col-4{
+    padding-left: 0;
+}
+
+section#fedback .col-8{
+    margin-top: 24px;
+}
+
+section#fedback .col-8 .knopka{
+    padding-left: 444px;
+}
+
+section#fedback .col-8 .knopka button{
+    margin-top: -195px;
+}
+
+section#contactus{
+    margin-top: 150px;
+    background-image: url("../component/image/contactusback.png");
+}
+
+section#contactus .col-6{
+    margin-top: 90px;
+}
+
+section#contactus .col-6 .col-md-6:nth-child(2) .form-control{
+    padding-bottom: 36px
+}
+
+section#contactus button{
+    background-color: rgb(34, 55, 85);
+    border: none;
+}
+
+section#contactus .col-6 h2{
+    font-size: 100px;
+}
+
+section#contactus .col-6:nth-child(2){
+    padding-left: 135px;
+    padding-top: 29px;
+}
+
+footer {
+    margin-top: 70px;
+    background-image: url("../component/image/footerback.png");
+}
+
+footer .col-5 h4{
+    font-size: 16px;
+}
+footer .col-4 h4{
+    font-size: 16px;
+}
+footer .col-3 h4{
+    font-size: 16px;
+}
+
+footer .col-5 p{
+    font-size: 14px;
+}
+
+footer .col-4 p{
+color: #ABABAB;
+    font-size: 14px;
+}
+footer .col-3 p{
+    color: #ABABAB;
+    font-size: 14px;
+}
+
+footer h3{
+    font-size: 24px;
+}
+
+footer .chiziqfooter{
+    margin-top: 40px;
+    width: 1074px;
+    height: 5px;
+    border-top: 2px solid white;
+}
+
+footer h6{
+    padding-left: 17px;
+    padding-right: 48px;
+    margin-top: 20px;
+    color: #ABABAB;
+}
+
+/***************** WEB-NAVBAR ****************/
+
+section#webNavbar{
+    background-image: url("../component/image/umumiyNavbar.png");
+    background-size: 100% 50%;
+    background-repeat: no-repeat;
+    padding-bottom: 300px;
+}
+
+section#webNavbar .container{
+    margin-bottom: 100px;
+}
+
+section#webNavbar .col-6:nth-child(2) button:nth-child(1){
+    margin-top: 23px;
+    height: 50%;
+    font-size: 13px;
+    color: white;
+    background-color: rgb(34, 55, 85);
+    padding: 2px 80px!important;
+}
+
+section#webNavbar .col-6:nth-child(2) button:nth-child(2){
+    margin-top: 23px;
+    height: 50%;
+    font-size: 13px;
+    color: white;
+    background-color: rgb(47, 47, 47);
+    padding: 2px 80px!important;
+}
+section#webNavbar .col-6:nth-child(1)  h1{
+    width: 150%;
+    font-size: 65px;
+    font-weight: 700;
+    color: rgb(34, 55, 85);
+}
+section#webNavbar .second .col-5{
+    background-color: rgb(47, 47, 47);
+    margin-top: -100px;
+}
+
+section#webNavbar .second h4{
+    font-size: 21px;
+    align-items: center;
+}
+
+section#webNavbar .second p{
+    margin-bottom: 1px;
+}
+
+/***************** WEB-SERVICES ****************/
+
+
+section#webServices{
+    margin-top: 140px;
+    margin-bottom: 140px;
+}
+
+section#webServices .chiziq{
+    height: 5px;
+    width: 400px;
+    background-color: rgb(34, 55, 85);
+}
+
+section#webServices .container{
+    margin-bottom: 100px;
+}
+
+section#webServices h2{
+    font-weight: 600;
+    margin-bottom: 50px;
+}
+
+/*section#webServices .col-4:nth-child(1) .card{*/
+/*    background-image: url("../images/web development 1.png");*/
+/*    background-size: 100% 100%;*/
+/*    background-repeat: no-repeat;*/
+/*    box-shadow: 2px 2px 10px lightgray;*/
+/*    padding: 20px 40px;*/
+
+/*}*/
+section#webServices .col-4:nth-child(1) .card{
+    background-image: url("../component/image/testing.png"),linear-gradient(90deg, rgb(34, 55, 85), rgb(104, 117, 134));
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    box-shadow: 2px 2px 10px lightgray;
+    padding: 20px 40px;
+
+}
+section#webServices .col-4:nth-child(2) .card{
+    background-image: url("../component/image/ui ux design 1.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    box-shadow: 2px 2px 10px lightgray;
+    padding: 20px 40px;
+}
+section#webServices .col-4:nth-child(3) .card{
+    background-image: url("../component/image/mobile development 1.png"),linear-gradient(90deg, rgb(34, 55, 85), rgb(104, 117, 134));
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    box-shadow: 2px 2px 10px lightgray;
+    padding: 20px 40px;
+}
+section#webServices .d-flex .col-4:nth-child(1) .card{
+    background-image: url("../component/image/deployment 1.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    box-shadow: 2px 2px 10px lightgray;
+    padding: 20px 40px;
+}
+section#webServices .d-flex .col-4:nth-child(2) .card{
+    background-image: url("../component/image/automation 1.png"),linear-gradient(90deg, rgb(34, 55, 85), rgb(104, 117, 134));
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    box-shadow: 2px 2px 10px lightgray;
+    padding: 20px 40px;
+}
+
+
+
+section#webServices .col-4 .col-9{
+    color: rgb(34, 55, 85);
+}
+section#webServices .col-4 .col-9 p{
+    font-size: 13px;
+}
+
+/***************** NAVBAR ****************/
+
+navbar .navbar-brand{
+    font-size: 35px;
+    color: black!important;
+}
+navbar .navbar-nav .nav-item .nav-link{
+    color: black;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 22px;
+
+
+}
+navbar .navbar{
+    background-color: transparent!important;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+navbar .navbar-nav {
+    background-color: white;
+    border-radius: 5px;
+    border: 1px solid rgb(34, 55, 85);
+}
+
+/***************** TESTINGNAVBAR ****************/
+
+section#testingnavbar{
+    background-image: url("../component/image/umumiyNavbar.png");
+    background-size: 100% 50%;
+    background-repeat: no-repeat;
+    padding-bottom: 300px;
+}
+
+section#testingnavbar .container{
+    margin-bottom: 100px;
+}
+
+section#testingnavbar .col-5 button:nth-child(1){
+    margin-top: 23px;
+    height: 50%;
+    font-size: 12px;
+    color: white;
+    background-color: rgb(34, 55, 85);
+    padding: 1px 80px!important;
+}
+
+section#testingnavbar .col-5 button:nth-child(2){
+    margin-top: 23px;
+    height: 50%;
+    font-size: 12px;
+    color: white;
+    background-color: rgb(47, 47, 47);
+    padding: 1px 80px!important;
+}
+section#testingnavbar .col-4  h1{
+    width: 150%;
+    font-size: 65px;
+    font-weight: 700;
+    color: rgb(34, 55, 85);
+}
+/*section#testingNavbar .second .col-5{*/
+/*    background-color: rgb(47, 47, 47);*/
+/*    margin-top: -100px;*/
+/*}*/
+
+section#testingnavbar .second h4{
+    font-size: 21px;
+    align-items: center;
+}
+
+section#testingNavbar .second p{
+    margin-bottom: 1px;
+}
+
+
+/***************** TestingService ****************/
+
+
+section#testingservices{
+    margin-top: 140px;
+    margin-bottom: 140px;
+}
+
+section#testingservices .chiziq{
+    height: 5px;
+    width: 400px;
+    background-color:  rgb(34, 55, 85);
+}
+
+section#testingservice .container{
+    margin-bottom: 100px;
+}
+
+section#testingservice h2{
+    font-weight: 600;
+    margin-bottom: 50px;
+}
+
+section#testingservices .col-4:nth-child(1) .card{
+    background-image: url("../component/image/web development 1.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    box-shadow: 2px 2px 10px lightgray;
+    padding: 20px 40px;
+
+}
+section#testingservices .col-4:nth-child(2) .card{
+    background-image: url("../component/image/ui ux design 1.png"),linear-gradient(90deg, rgb(34, 55, 85), rgb(104, 117, 134));
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    box-shadow: 2px 2px 10px lightgray;
+    padding: 20px 40px;
+}
+section#testingservices .col-4:nth-child(3) .card{
+    background-image: url("../component/image/mobile development 1.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    box-shadow: 2px 2px 10px lightgray;
+    padding: 20px 40px;
+}
+section#testingservices .d-flex .col-4:nth-child(1) .card{
+    background-image: url("../component/image/testAutomation.png"),linear-gradient(90deg, rgb(34, 55, 85), rgb(104, 117, 134));
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    box-shadow: 2px 2px 10px lightgray;
+    padding: 20px 40px;
+}
+section#testingservices .d-flex .col-4:nth-child(2) .card{
+    background-image: url("../component/image/deployment 1.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    box-shadow: 2px 2px 10px lightgray;
+    padding: 20px 40px;
+}
+
+
+
+section#testingservices .col-4 .col-9{
+    /*color: rgb(34, 55, 85);*/
+}
+section#testingservices .col-4 .col-9 p{
+    font-size: 13px;
+}
+
+
+/***************** MobileDevelopNavbar ****************/
+
+
+
+section#mobiledevelopnavbar{
+    background-image: url("../component/image/umumiyNavbar.png");
+    background-size: 100% 50%;
+    background-repeat: no-repeat;
+    padding-bottom: 300px;
+}
+
+section#mobiledevelopnavbar .container{
+    margin-bottom: 100px;
+}
+
+section#mobiledevelopnavbar .col-6 button:nth-child(1){
+    margin-top: 59px;
+    height: 32%;
+    font-size: 13px;
+    color: white;
+    background-color: rgb(34, 55, 85);
+    padding: 2px 80px!important;
+}
+
+section#mobiledevelopnavbar .col-6 button:nth-child(2){
+    margin-top: 59px;
+    height: 32%;
+    font-size: 13px;
+    color: white;
+    background-color: rgb(47, 47, 47);
+    padding: 2px 80px!important;
+}
+section#mobiledevelopnavbar .col-4:nth-child(1)  h1{
+    width: 150%;
+    font-size: 65px;
+    font-weight: 700;
+    color: rgb(34, 55, 85);
+}
+/*section#mobiledevelopnavbar .second .col-6{*/
+/*    background-color: rgb(47, 47, 47);*/
+/*    margin-top: -100px;*/
+/*}*/
+
+section#mobiledevelopnavbar .second h4{
+    font-size: 21px;
+    align-items: center;
+}
+
+section#mobiledevelopnavbar .second p{
+    margin-bottom: 1px;
+}
+
+
+/***************** MobileDevelopServices ****************/
+
+
+section#mobDevelopService{
+    margin-top: 140px;
+    margin-bottom: 140px;
+}
+
+section#mobDevelopService .chiziq{
+    height: 5px;
+    width: 400px;
+    background-color: rgb(34, 55, 85);
+}
+
+section#mobDevelopService .container{
+    margin-bottom: 100px;
+}
+
+section#mobDevelopService h2{
+    font-weight: 600;
+    margin-bottom: 50px;
+}
+
+
+
+section#mobDevelopService .col-4:nth-child(1) .card{
+    background-image: url("../component/image/web development 1.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    box-shadow: 2px 2px 10px lightgray;
+    padding: 20px 40px;
+
+}
+section#mobDevelopService .col-4:nth-child(2) .card{
+    background-image: url("../component/image/testing.png"),linear-gradient(90deg, rgb(34, 55, 85), rgb(104, 117, 134));
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    box-shadow: 2px 2px 10px lightgray;
+    padding: 20px 40px;
+
+}
+section#mobDevelopService .col-4:nth-child(3) .card{
+    background-image: url("../component/image/ui ux design 1.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    box-shadow: 2px 2px 10px lightgray;
+    padding: 20px 40px;
+}
+/*section#mobDevelopService .col-4:nth-child(3) .card{*/
+/*    background-image: url("../images/mobile development 1.png"),linear-gradient(90deg, rgb(34, 55, 85), rgb(104, 117, 134));*/
+/*    background-size: 100% 100%;*/
+/*    background-repeat: no-repeat;*/
+/*    box-shadow: 2px 2px 10px lightgray;*/
+/*    padding: 20px 40px;*/
+/*}*/
+
+section#mobDevelopService .d-flex .col-4:nth-child(1) .card{
+    background-image: url("../component/image/automation 1.png"),linear-gradient(90deg, rgb(34, 55, 85), rgb(104, 117, 134));
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    box-shadow: 2px 2px 10px lightgray;
+    padding: 20px 40px;
+}
+section#mobDevelopService .d-flex .col-4:nth-child(2) .card{
+    background-image: url("../component/image/deployment 1.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    box-shadow: 2px 2px 10px lightgray;
+    padding: 20px 40px;
+}
+
+
+section#mobDevelopService .col-4 .col-9{
+    color: rgb(34, 55, 85);
+}
+section#mobDevelopService .col-4 .col-9 p{
+    font-size: 13px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/***************** UI_IXDevelopNavbar ****************/
+
+
+section#uidesignnavbar{
+    background-image: url("../component/image/umumiyNavbar.png");
+    background-size: 100% 50%;
+    background-repeat: no-repeat;
+    padding-bottom: 300px;
+}
+
+section#uidesignnavbar .container{
+    margin-bottom: 100px;
+}
+
+section#uidesignnavbar .col-6 button:nth-child(1){
+    margin-top: 25px;
+    height: 50%;
+    font-size: 13px;
+    color: white;
+    background-color: rgb(34, 55, 85);
+    padding: 2px 80px!important;
+}
+
+section#uidesignnavbar .col-6 button:nth-child(2){
+    margin-top: 25px;
+    height: 50%;
+    font-size: 13px;
+    color: white;
+    background-color: rgb(47, 47, 47);
+    padding: 2px 80px!important;
+}
+section#uidesignnavbar .col-5:nth-child(1)  h1{
+    width: 150%;
+    font-size: 65px;
+    font-weight: 700;
+    color: rgb(34, 55, 85);
+}
+/*section#mobiledevelopnavbar .second .col-6{*/
+/*    background-color: rgb(47, 47, 47);*/
+/*    margin-top: -100px;*/
+/*}*/
+
+section#uidesignnavbar .second h4{
+    font-size: 21px;
+    align-items: center;
+}
+
+section#uidesignnavbar .second p{
+    margin-bottom: 1px;
+}
+
+
+
+
+
+
+
+
+
+
+/***************** AutomationNavbar ****************/
+
+
+section#automationnavbar{
+    background-image: url("../component/image/umumiyNavbar.png");
+    background-size: 100% 50%;
+    background-repeat: no-repeat;
+    padding-bottom: 300px;
+}
+
+section#automationnavbar .container{
+    margin-bottom: 100px;
+}
+
+section#automationnavbar .col-6 button:nth-child(1){
+    margin-top: 25px;
+    height: 50%;
+    font-size: 13px;
+    color: white;
+    background-color: rgb(34, 55, 85);
+    padding: 2px 80px!important;
+}
+
+section#automationnavbar .col-6 button:nth-child(2){
+    margin-top: 25px;
+    height: 50%;
+    font-size: 13px;
+    color: white;
+    background-color: rgb(47, 47, 47);
+    padding: 2px 80px!important;
+}
+section#automationnavbar .col-4:nth-child(1)  h1{
+    width: 150%;
+    font-size: 65px;
+    font-weight: 700;
+    color: rgb(34, 55, 85);
+}
+/*section#mobiledevelopnavbar .second .col-6{*/
+/*    background-color: rgb(47, 47, 47);*/
+/*    margin-top: -100px;*/
+/*}*/
+
+section#automationnavbar .second h4{
+    font-size: 21px;
+    align-items: center;
+}
+
+section#automationnavbar .second p{
+    margin-bottom: 1px;
+}
+
+
+
+
+
+
+
+
+
+
+
+/***************** DeploymentNavbar ****************/
+
+
+section#deploymentnavbar{
+    background-image: url("../component/image/umumiyNavbar.png");
+    background-size: 100% 50%;
+    background-repeat: no-repeat;
+    padding-bottom: 300px;
+}
+
+section#deploymentnavbar .container{
+    margin-bottom: 100px;
+}
+
+section#deploymentnavbar .col-6 button:nth-child(1){
+    margin-top: 25px;
+    height: 50%;
+    font-size: 13px;
+    color: white;
+    background-color: rgb(34, 55, 85);
+    padding: 2px 80px!important;
+}
+
+section#deploymentnavbar .col-6 button:nth-child(2){
+    margin-top: 25px;
+    height: 50%;
+    font-size: 13px;
+    color: white;
+    background-color: rgb(47, 47, 47);
+    padding: 2px 80px!important;
+}
+section#deploymentnavbar .col-4:nth-child(1)  h1{
+    width: 150%;
+    font-size: 65px;
+    font-weight: 700;
+    color: rgb(34, 55, 85);
+}
+/*section#mobiledevelopnavbar .second .col-6{*/
+/*    background-color: rgb(47, 47, 47);*/
+/*    margin-top: -100px;*/
+/*}*/
+
+section#deploymentnavbar .second h4{
+    font-size: 21px;
+    align-items: center;
+}
+
+section#deploymentnavbar .second p{
+    margin-bottom: 1px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/***************** Online-storeNAVBAR ****************/
+
+section#onlinestorenavbar{
+    background-image: url("../component/image/umumiyNavbar.png");
+    background-size: 100% 50%;
+    background-repeat: no-repeat;
+    padding-bottom: 300px;
+}
+
+section#onlinestorenavbar .container{
+    margin-bottom: 100px;
+}
+
+section#onlinestorenavbar .col-6 button:nth-child(1){
+    margin-top: 23px;
+    height: 50%;
+    font-size: 13px;
+    color: white;
+    background-color: rgb(34, 55, 85);
+    padding: 2px 80px!important;
+}
+
+section#onlinestorenavbar .col-6 button:nth-child(2){
+    margin-top: 23px;
+    height: 50%;
+    font-size: 13px;
+    color: white;
+    background-color: rgb(47, 47, 47);
+    padding: 2px 80px!important;
+}
+section#onlinestorenavbar .col-4:nth-child(1)  h1{
+    width: 150%;
+    font-size: 65px;
+    font-weight: 700;
+    color: rgb(34, 55, 85);
+}
+section#onlinestorenavbar .second .col-5{
+    background-color: rgb(47, 47, 47);
+    margin-top: -100px;
+}
+
+section#onlinestorenavbar.second h4{
+    font-size: 21px;
+    align-items: center;
+}
+
+section#onlinestorenavbar .second p{
+    margin-bottom: 1px;
+}
+
+/****************** UIDESIGNSERVICES ****************/
+
+section#uiDesignServices{
+    margin-top: 140px;
+    margin-bottom: 140px;
+}
+
+section#uiDesignServices .chiziq{
+    height: 5px;
+    width: 400px;
+    background-color: rgb(34, 55, 85);
+}
+
+section#uiDesignServices .container{
+    margin-bottom: 100px;
+}
+
+section#uiDesignServices h2{
+    font-weight: 600;
+    margin-bottom: 50px;
+}
+
+section#uiDesignServices .col-4:nth-child(1) .card{
+    background-image: url("../component/image/testing.png"),linear-gradient(90deg, rgb(34, 55, 85), rgb(104, 117, 134));
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    box-shadow: 2px 2px 10px lightgray;
+    padding: 20px 40px;
+}
+
+section#uiDesignServices .col-4:nth-child(2) .card{
+    background-image: url("../component/image/web development 1.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    box-shadow: 2px 2px 10px lightgray;
+    padding: 20px 40px;
+}
+
+
+/*section#uiDesignServices .col-4:nth-child(3) .card{*/
+/*    background-image: url("../images/uiuxdesign1.png");*/
+/*    background-size: 100% 100%;*/
+/*    background-repeat: no-repeat;*/
+/*    box-shadow: 2px 2px 10px lightgray;*/
+/*    padding: 20px 40px;*/
+/*}*/
+
+section#uiDesignServices .col-4:nth-child(3) .card{
+    background-image: url("../component/image/mobile development 1.png"),linear-gradient(90deg, rgb(34, 55, 85), rgb(104, 117, 134));
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    box-shadow: 2px 2px 10px lightgray;
+    padding: 20px 40px;
+}
+
+
+section#uiDesignServices .d-flex .col-4:nth-child(1) .card{
+    background-image: url("../component/image/deployment 1.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    box-shadow: 2px 2px 10px lightgray;
+    padding: 20px 40px;
+}
+
+section#uiDesignServices .d-flex .col-4:nth-child(2) .card{
+    background-image: url("../component/image/automation 1.png"),linear-gradient(90deg, rgb(34, 55, 85), rgb(104, 117, 134));
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    box-shadow: 2px 2px 10px lightgray;
+    padding: 20px 40px;
+}
+
+section#uiDesignServices .col-4 .col-9{
+    color: rgb(34, 55, 85);
+}
+section#uiDesignServices .col-4 .col-9 p{
+    font-size: 13px;
+}
+
+
+/****************** AUTOMATIONSERVICES ****************/
+
+section#automationServices{
+    margin-top: 140px;
+    margin-bottom: 140px;
+}
+
+section#automationServices .chiziq{
+    height: 5px;
+    width: 400px;
+    background-color: rgb(34, 55, 85);
+}
+
+section#automationServices .container{
+    margin-bottom: 100px;
+}
+
+section#automationServices h2{
+    font-weight: 600;
+    margin-bottom: 50px;
+}
+
+section#automationServices .col-4:nth-child(1) .card{
+    background-image: url("../component/image/web development 1.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    box-shadow: 2px 2px 10px lightgray;
+    padding: 20px 40px;
+
+}
+section#automationServices .col-4:nth-child(2) .card{
+    background-image: url("../component/image/testing.png"),linear-gradient(90deg, rgb(34, 55, 85), rgb(104, 117, 134));
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    box-shadow: 2px 2px 10px lightgray;
+    padding: 20px 40px;
+
+}
+section#automationServices .col-4:nth-child(3) .card{
+    background-image: url("../component/image/ui ux design 1.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    box-shadow: 2px 2px 10px lightgray;
+    padding: 20px 40px;
+}
+/*section#mobDevelopService .col-4:nth-child(3) .card{*/
+/*    background-image: url("../images/mobile development 1.png"),linear-gradient(90deg, rgb(34, 55, 85), rgb(104, 117, 134));*/
+/*    background-size: 100% 100%;*/
+/*    background-repeat: no-repeat;*/
+/*    box-shadow: 2px 2px 10px lightgray;*/
+/*    padding: 20px 40px;*/
+/*}*/
+
+section#automationServices .d-flex .col-4:nth-child(1) .card{
+    background-image: url("../component/image/mobile development 1.png"),linear-gradient(90deg, rgb(34, 55, 85), rgb(104, 117, 134));
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    box-shadow: 2px 2px 10px lightgray;
+    padding: 20px 40px;
+}
+
+section#automationServices .d-flex .col-4:nth-child(2) .card{
+    background-image: url("../component/image/deployment 1.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    box-shadow: 2px 2px 10px lightgray;
+    padding: 20px 40px;
+}
+
+
+section#automationServices .col-4 .col-9{
+    color: rgb(34, 55, 85);
+}
+section#automationServices .col-4 .col-9 p{
+    font-size: 13px;
+}
+
+/****************** DEPLLOYMENT-SERVICES ****************/
+
+section#deploymentServices{
+    margin-top: 140px;
+    margin-bottom: 140px;
+}
+
+section#deploymentServices .chiziq{
+    height: 5px;
+    width: 400px;
+    background-color: rgb(34, 55, 85);
+}
+
+section#deploymentServices .container{
+    margin-bottom: 100px;
+}
+
+section#deploymentServices h2{
+    font-weight: 600;
+    margin-bottom: 50px;
+}
+
+section#deploymentServices .col-4:nth-child(1) .card{
+    background-image: url("../component/image/testing.png"),linear-gradient(90deg, rgb(34, 55, 85), rgb(104, 117, 134));
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    box-shadow: 2px 2px 10px lightgray;
+    padding: 20px 40px;
+}
+
+section#deploymentServices .col-4:nth-child(2) .card{
+    background-image: url("../component/image/web development 1.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    box-shadow: 2px 2px 10px lightgray;
+    padding: 20px 40px;
+}
+
+
+/*section#uiDesignServices .col-4:nth-child(3) .card{*/
+/*    background-image: url("../images/uiuxdesign1.png");*/
+/*    background-size: 100% 100%;*/
+/*    background-repeat: no-repeat;*/
+/*    box-shadow: 2px 2px 10px lightgray;*/
+/*    padding: 20px 40px;*/
+/*}*/
+
+section#deploymentServices .col-4:nth-child(3) .card{
+    background-image: url("../component/image/mobile development 1.png"),linear-gradient(90deg, rgb(34, 55, 85), rgb(104, 117, 134));
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    box-shadow: 2px 2px 10px lightgray;
+    padding: 20px 40px;
+}
+
+
+section#deploymentServices .d-flex .col-4:nth-child(1) .card{
+    background-image: url("../component/image/ui ux design 1.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    box-shadow: 2px 2px 10px lightgray;
+    padding: 20px 40px;
+}
+
+section#deploymentServices .d-flex .col-4:nth-child(2) .card{
+    background-image: url("../component/image/automation 1.png"),linear-gradient(90deg, rgb(34, 55, 85), rgb(104, 117, 134));
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    box-shadow: 2px 2px 10px lightgray;
+    padding: 20px 40px;
+}
+
+section#deploymentServices .col-4 .col-9{
+    color: rgb(34, 55, 85);
+}
+section#deploymentServices .col-4 .col-9 p{
+    font-size: 13px;
+}
+
+/***************** CAROUSEL ****************/
+
+section#carousel {
+    margin-top: 200px;
+    margin-bottom: 160px;
+    background-image: url("../component/image/ourteamback.png");
+    padding-bottom: 100px;
+    padding-top: 100px;
+}
+section#carousel .col-12 .row{
+    /*padding-right: -100px;*/
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+section#carousel .chizziq-achieve{
+
+    height: 5px;
+    width: 30%;
+    background-color: white;
+    margin-bottom: 50px;
+}
+
+
+
+/****************** OUR-ACHIEVE *****************/
+
+section#ourachive{
+    margin-top: 210px;
+    padding-top: 20px;
+    background-image: url("../component/image/achieveBack.png");
+}
+
+section#ourachive .chiziq2{
+    margin-top: 50px;
+    width: 260px;
+    height: 5px;
+    border-top: 5px solid white;
+    background-color: white;
+}
+
+section#ourachive .col-3{
+    margin-top: 11px;
+    border-radius: 50%;
+    box-sizing: border-box;
+    border: 2px solid white;
+}
+section#ourachive .col-3 img{
+    width: 45px;
+    margin-left: 9px;
+    margin-top: 19px;
+}
+
+section#ourachive h1{
+    font-style: normal;
+    font-weight: 300;
+    font-size: 80px;
+    margin-left: 24px;
+}
+
+
+section#ourachive .col-8 img{
+    margin-top: -179px
+}
+
+section#ourachive .chiziq3{
+    margin-top: 50px;
+    width: 785px;
+    height: 5px;
+    border-top: 5px solid white;
+    background-color: white;
+}
+
+section#ourachive .col-2 h4{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+
+}
+
+section#ourachive .col-10 p{
+    color: grey;
+}
